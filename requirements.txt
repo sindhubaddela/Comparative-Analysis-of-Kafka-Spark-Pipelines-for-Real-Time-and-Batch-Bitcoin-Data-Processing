@@ -1,0 +1,14 @@
+requests
+python-dotenv
+pandas
+nltk
+textblob
+vaderSentiment
+matplotlib
+seaborn
+streamlit
+numpy
+matplotlib
+kafka-python==2.0.2
+websocket-client==1.7.0
+pyspark==3.5.1
